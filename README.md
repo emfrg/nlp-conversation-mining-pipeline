@@ -48,7 +48,7 @@ A **Streamlit dashboard** lets stakeholders explore the topic clusters, review t
 
 **Core capabilities:** Issue extraction · Embedding clustering · Topic analysis · Sentiment analysis · User analytics
 
-**Tech stack:** LangGraph · Vertex AI (Anthropic Claude) · Qdrant · scikit-learn · Streamlit
+**Tech stack:** LangGraph · Vertex AI (Gemini) · Qdrant · scikit-learn · Streamlit
 
 ## Results
 
